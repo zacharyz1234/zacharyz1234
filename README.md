@@ -30,15 +30,17 @@
 
   I am a freshman computer science student studying at East Carolina University 🏴‍☠️
 
-  - 🖥️ I helped start and run the ECU Coding Club!
+  - 🖥️ Helped start and run the ECU Coding Club as one of three coaches!
 
-  - 🤓 I am a huge nerd who loves things like D&D, Star Wars, sci-fi, and video games.
+  - 🪪 Serve on the ACM @ ECU board as membership chair.
+
+  - 🤓 A huge nerd who loves things like D&D, Star Wars, all things sci-fi, and video games.
     
-  - 🎮 I am studying to become a video game engineer.
+  - 🎮 Studying with hopes to become a video game engineer.
 
-  - 🎸 If I am not in class, I am almost always listening to music, preferably Rock and Roll!
+  - 🎸 If not in class, almost always listening to music, preferably Rock and Roll!
 
-  - 📧 You can reach me at my LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Here!-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zachary-zeldin-6a05a5217/)
+  - 📧 You can reach me on my LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Here!-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zachary-zeldin-6a05a5217/)
 
 
 ---
