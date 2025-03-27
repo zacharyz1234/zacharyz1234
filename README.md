@@ -5,7 +5,7 @@
 
 <!-- LINKEDIN BUTTON -->
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/zachary-zeldin-6a05a5217/">
+  <a href="https://www.linkedin.com/in/zachary-zeldin/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -40,7 +40,7 @@
 
   - 🎸 If not in class, almost always listening to music, preferably Rock and Roll!
 
-  - 📧 You can reach me on my LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Here!-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zachary-zeldin-6a05a5217/)
+  - 📧 You can reach me on my LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Here!-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zachary-zeldin/)
 
 
 ---
