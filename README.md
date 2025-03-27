@@ -57,6 +57,5 @@
 
 ---
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zacharyz1234&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
-
+<!--LANGUAGES USED COUNTER THINGY-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zacharyz1234&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="zacharyz1234's GitHub Stats" />
