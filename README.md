@@ -52,7 +52,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <!-- ALIGNS TEXT TO THE LEFT -->
-<div align="left">
 
 ---
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zacharyz1234&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zacharyz1234&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="zacharyz1234's GitHub Stats" />
