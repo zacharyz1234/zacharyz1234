@@ -32,13 +32,13 @@
 
   - 🖥️ Served as co-founder and coach for Coding Club ECU, ECU's first ever coding club!
 
-  - 🪪 Serve as ACM@ECU Treasuer! Formerly served as Membership Chair.
+  - 🪪 Serving as Treasurer for ACM@ECU! Formerly served as Membership Chair.
 
   - 🤓 A huge nerd who loves things like D&D, Star Wars, all things sci-fi, and video games.
     
   - 🎮 Studying with hopes to become a technical designer in the game industry.
 
-  - 🎸 If not in class, almost always listening to music, preferably Rock and Roll!
+  - 🎸 When not in class I'm almost always listening to music, preferably Rock and Roll!
 
   - 📧 You can reach me on my LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Here!-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zachary-zeldin/)
 
