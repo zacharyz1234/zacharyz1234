@@ -58,5 +58,19 @@
 
 ---
 
+### 🕐 What Am I Working On Now? :
+
+I'm currently learning the process of level design through a course by GameDesignSkills
+
+  - ⛰️ Building a dig-site level where the player must retrieve an ancient artifact in order to defeat an evil hive mind focused on taking over humanity!
+
+  - 🔧 Making changes and iterations over time to improve my level
+
+  - 🧰 Learning the basics of Unreal Engine 5 and dabbling in its blueprint language
+
+  - 🧑‍🤝‍🧑 Engaging in playtests with multiple other students in the course
+
+---
+
 <!--LANGUAGES USED COUNTER THINGY-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zacharyz1234&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="zacharyz1234's GitHub Stats" />
