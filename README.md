@@ -28,15 +28,15 @@
 ### 👨‍💻 About Me :
 
 
-  I am a freshman computer science student studying at East Carolina University 🏴‍☠️
+  I am a sophomore computer science student studying at East Carolina University 🏴‍☠️
 
-  - 🖥️ Helped start and run the ECU Coding Club as one of three coaches!
+  - 🖥️ Served as co-founder and coach for Coding Club ECU, ECU's first ever coding club!
 
-  - 🪪 Serve on the ACM @ ECU board as membership chair.
+  - 🪪 Serve as ACM@ECU Treasuer! Formerly served as Membership Chair.
 
   - 🤓 A huge nerd who loves things like D&D, Star Wars, all things sci-fi, and video games.
     
-  - 🎮 Studying with hopes to become a video game engineer.
+  - 🎮 Studying with hopes to become a technical designer in the game industry.
 
   - 🎸 If not in class, almost always listening to music, preferably Rock and Roll!
 
