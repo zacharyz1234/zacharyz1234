@@ -73,6 +73,6 @@ I'm currently learning the process of level design through a course by GameDesig
   - 🧑‍🤝‍🧑 Engaging in playtests with multiple other students in the course
 
 ---
-
+<div align="center">
 <!--LANGUAGES USED COUNTER THINGY-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zacharyz1234&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="zacharyz1234's GitHub Stats" />
