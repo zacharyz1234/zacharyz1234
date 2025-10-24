@@ -68,7 +68,7 @@ I'm currently finishing up my HackNC 2025 project!
 
   - 💻 Working with a team to complete a project (It's our first time collaboratively using GitHub!) 
 
-  - 🧰 Learning the Raylib C++ library to impliment sprites and game logic
+  - 🧰 Learning the Raylib C++ library to implement sprites and game logic
 
   - 🎨 Designing all pixel art for the project!
 
