@@ -61,16 +61,16 @@
 
 ### 🕐 What Am I Working On Now? :
 
-I'm currently learning the process of level design through a course by GameDesignSkills
+I'm currently finishing up my HackNC 2025 project!
 <div align="left">
   
-  - ⛰️ Building a dig-site level where the player must retrieve an ancient artifact in order to defeat an evil hive mind focused on taking over humanity!
+  - 🏰 Building a Legend of Zelda infinite dungeon crawler that fits the hackathon's retro theme!
 
-  - 🔧 Making changes and iterations over time to improve my level
+  - 💻 Working with a team to complete a project (It's our first time collaboratively using GitHub!) 
 
-  - 🧰 Learning the basics of Unreal Engine 5 and dabbling in its blueprint language
+  - 🧰 Learning the Raylib C++ library to impliment sprites and game logic
 
-  - 🧑‍🤝‍🧑 Engaging in playtests with multiple other students in the course
+  - 🎨 Designing all pixel art for the project!
 
 ---
 <div align="center">
