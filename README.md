@@ -28,7 +28,7 @@
 ### 👨‍💻 About Me :
 
 
-  I am a sophomore computer science student studying at East Carolina University 🏴‍☠️
+  I am a junior computer science student studying at East Carolina University 🏴‍☠️
 
   - 🖥️ Served as co-founder and coach for Coding Club ECU, ECU's first ever coding club!
 
