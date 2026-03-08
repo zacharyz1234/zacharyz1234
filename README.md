@@ -61,15 +61,13 @@
 
 ### 🕐 What Am I Working On Now? :
 
-I'm currently finishing up my HackNC 2025 project!
+I'm currently working on a personal project for fun!
 <div align="left">
   
-  - 🏰 Building a Legend of Zelda infinite dungeon crawler that fits the hackathon's retro theme!
+  - Building a 3D solar system model in javascript
 
-  - 💻 Working with a team to complete a project (It's our first time collaboratively using GitHub!) 
+  - Learning how to use node.js and the THREE.js library for the project
 
-  - 🧰 Learning the Raylib C++ library to implement sprites and game logic
-
-  - 🎨 Designing all pixel art for the project!
+  - Brushing up on my linear algebra and calculus skills for orbit calculations
 
 
