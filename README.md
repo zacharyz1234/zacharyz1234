@@ -66,8 +66,10 @@ I'm currently working on a personal project for fun!
   
   - Building a 3D solar system model in javascript
 
-  - Learning how to use node.js and the THREE.js library for the project
+  - Learning how to use the THREE.js library for the project
 
-  - Brushing up on my linear algebra and calculus skills for orbit calculations
+  - Learning how to implement my own custom UI elements
+
+  - Implementing my own version of the THREE.js orbit camera
 
 
