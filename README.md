@@ -30,9 +30,9 @@
 
   I am a junior computer science student studying at East Carolina University 🏴‍☠️
 
-  - 🖥️ Served as co-founder and coach for Coding Club ECU, ECU's first ever coding club!
+  - 🪪 Serving as Chair for ACM@ECU! Formerly served as Membership Chair and Treasurer.
 
-  - 🪪 Serving as Treasurer for ACM@ECU! Formerly served as Membership Chair.
+  - 🖥️ Served as co-founder and coach for Coding Club ECU, ECU's first ever coding club!
 
   - 🤓 A huge nerd who loves things like D&D, Star Wars, all things sci-fi, and video games.
     
