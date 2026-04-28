@@ -36,7 +36,7 @@
 
   - 🤓 A huge nerd who loves things like D&D, Star Wars, all things sci-fi, and video games.
     
-  - 🎮 Studying with hopes to become a technical designer in the game industry.
+  - 🎮 Studying with hopes to become an engineer in the video game industry.
 
   - 🎸 When not in class I'm almost always listening to music, preferably Rock and Roll!
 
